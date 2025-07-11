@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **HTML, CSS, beginner JavaScript problems**
 
-- 📫 How to reach me: **amirsuhail21@gmail.com**
+- 📫 How to reach me: **mannuraien3@gmail.com**
 
 - ⚡ Fun fact: *I started coding to build things that actually work!*
 
