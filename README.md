@@ -66,6 +66,5 @@ Here are some ideas to get you started:
 
 
 
-![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirSuhail21&show_icons=true&theme=tokyonight)
 
 
