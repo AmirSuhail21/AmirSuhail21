@@ -23,10 +23,10 @@ I'm a passionate web development learner from India who enjoys building clean, r
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amir_suhail_2.1_)
+## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-suhail-13a776338)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amir_suhail_2.1_)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-suhail-13a776338)&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mannuraien3@gmail.com)
 
 ---
