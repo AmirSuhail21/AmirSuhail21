@@ -23,6 +23,9 @@ I work with modern frontend and backend technologies to create scalable web solu
 </div>
 
 ---
+
+## 🌐 Socials:
+
 <p align="center">
   <a href="https://www.linkedin.com/in/amir-suhail-13a776338" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="55" style="display: inline-block; margin: 0 10px;"/>
