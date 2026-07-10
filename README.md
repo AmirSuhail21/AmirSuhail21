@@ -20,7 +20,7 @@ I work with modern frontend and backend technologies to create scalable web solu
 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js**  
 📧 Email: **mannuraien3@gmail.com**
 
-</div>
+
 
 ---
 
@@ -43,7 +43,7 @@ I work with modern frontend and backend technologies to create scalable web solu
 </p>
 
 ---
-
+</div>
 # 🛠 Tech Stack
 
 ## 🌐 Frontend
