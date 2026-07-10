@@ -21,11 +21,25 @@ I'm a passionate web development learner from India who enjoys building clean, r
 
 ---
 
-## 🌐 Connect with Me
+<h2>🌐 Connect with Me</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amir_suhail_2.1_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-suhail-13a776338)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mannuraien3@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/amir-suhail-13a776338" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/amir_suhail_2.1_" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:mannuraien3@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<i>Let's connect and build something amazing together! 🚀</i>
+</p>
 
 ---
 
