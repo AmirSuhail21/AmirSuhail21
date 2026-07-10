@@ -23,31 +23,20 @@ I work with modern frontend and backend technologies to create scalable web solu
 </div>
 
 ---
-
-<h2 align="center">🤝 Let's Connect</h2>
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/amir-suhail-13a776338">
-<img src="https://img.icons8.com/fluency/48/linkedin.png" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/amir_suhail_2.1_">
-<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:mannuraien3@gmail.com">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="55"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/amir-suhail-13a776338" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="55" style="display: inline-block; margin: 0 10px;"/>
+  </a>
+  <a href="https://www.instagram.com/amir_suhail_2.1_" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="55" style="display: inline-block; margin: 0 10px;"/>
+  </a>
+  <a href="mailto:mannuraien3@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="55" style="display: inline-block; margin: 0 10px;"/>
+  </a>
 </p>
 
 <p align="center">
-<b>Open to Collaborations • Learning • Building Projects 🚀</b>
+  <b>Open to Collaborations • Learning • Building Projects 🚀</b>
 </p>
 
 ---
