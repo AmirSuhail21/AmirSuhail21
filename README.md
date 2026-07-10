@@ -21,24 +21,24 @@ I'm a passionate web development learner from India who enjoys building clean, r
 
 ---
 
-<h2>🌐 Connect with Me</h2>
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/amir-suhail-13a776338" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/amir-suhail-13a776338">
+<img src="https://img.icons8.com/fluency/48/linkedin.png" width="55"/>
 </a>
-
-<a href="https://www.instagram.com/amir_suhail_2.1_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/amir_suhail_2.1_">
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="55"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:mannuraien3@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="55"/>
 </a>
 </p>
 
 <p align="center">
-<i>Let's connect and build something amazing together! 🚀</i>
+<b>Open to collaborations • Learning • Building Projects 🚀</b>
 </p>
 
 ---
