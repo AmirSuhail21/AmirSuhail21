@@ -43,7 +43,7 @@ I work with modern frontend and backend technologies to create scalable web solu
 </p>
 
 ---
-</div>
+
 # 🛠 Tech Stack
 
 ## 🌐 Frontend
@@ -213,3 +213,4 @@ Collection of interactive JavaScript-based games and applications.
 <p align="center">
 ⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.
 </p>
+</div>
