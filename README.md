@@ -1,41 +1,49 @@
+<div align="center">
+
 # Hi 👋, I'm Amir Suhail
 
 ### 💻 Full Stack Web Developer
 
-I'm a passionate **Full Stack Web Developer** and **BCA Final Year Student** from India. I enjoy building clean, responsive, and user-friendly web applications. I work with modern frontend and backend technologies to create scalable web solutions.
+I'm a passionate **Full Stack Web Developer** and **BCA Final Year Student** from India.  
+I enjoy building clean, responsive, and user-friendly web applications.  
+I work with modern frontend and backend technologies to create scalable web solutions.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BCA Final Year Student (Expected 2026)
-- 💻 Full Stack Web Developer
-- 🌱 Learning and improving my skills in **React.js, Node.js & Backend Development**
-- 🔭 Building **Frontend & Full Stack Projects**
-- 🎯 Goal: Become a Professional Full Stack Developer
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js**
-- 📧 Email: **mannuraien3@gmail.com**
+🎓 BCA Final Year Student (Expected 2026)  
+💻 Full Stack Web Developer  
+🌱 Learning **React.js, Node.js & Backend Development**  
+🔭 Building **Frontend & Full Stack Projects**  
+🎯 Goal: Become a Professional Full Stack Developer  
+💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js**  
+📧 Email: **mannuraien3@gmail.com**
+
+</div>
 
 ---
 
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/amir-suhail-13a776338">
 <img src="https://img.icons8.com/fluency/48/linkedin.png" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/amir_suhail_2.1_">
 <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:mannuraien3@gmail.com">
 <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="55"/>
 </a>
+
 </p>
 
 <p align="center">
