@@ -53,13 +53,13 @@ I work with modern frontend and backend technologies to create scalable web solu
 </p>
 
 ### Frontend Skills:
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Tailwind CSS
-- Responsive Web Design
-- DOM Manipulation
+  HTML5
+  CSS3
+  JavaScript (ES6+)
+  React.js
+  Tailwind CSS
+  Responsive Web Design
+  DOM Manipulation
 
 ---
 
@@ -70,14 +70,14 @@ I work with modern frontend and backend technologies to create scalable web solu
 </p>
 
 ### Backend Skills:
-- Node.js
-- Express.js
-- EJS Template Engine
-- Pug Template Engine
-- Nodemon
-- Middleware Handling
-- RESTful APIs
-- Server-side Development
+  Node.js
+  Express.js
+  EJS Template Engine
+  Pug Template Engine
+  Nodemon
+  Middleware Handling
+  RESTful APIs
+  Server-side Development
 
 ---
 
@@ -88,9 +88,9 @@ I work with modern frontend and backend technologies to create scalable web solu
 </p>
 
 ### Database Skills:
-- MySQL
-- MongoDB
-- Database Management
+  MySQL
+  MongoDB
+  Database Management
 
 ---
 
@@ -101,10 +101,10 @@ I work with modern frontend and backend technologies to create scalable web solu
 </p>
 
 ### Tools:
-- Git
-- GitHub
-- VS Code
-- Nodemon
+  Git
+  GitHub
+  VS Code
+  Nodemon
 
 ---
 
@@ -128,14 +128,14 @@ I work with modern frontend and backend technologies to create scalable web solu
 
 # 🎯 Current Goals
 
-- Build Scalable Full Stack Applications
-- Master React.js
-- Improve Backend Development Skills
-- Create REST API Based Applications
-- Learn Advanced Database Concepts
-- Build Real-World Projects
-- Contribute to Open Source
-- Improve Problem Solving & DSA
+  Build Scalable Full Stack Applications
+  Master React.js
+  Improve Backend Development Skills
+  Create REST API Based Applications
+  Learn Advanced Database Concepts
+  Build Real-World Projects
+  Contribute to Open Source
+  Improve Problem Solving & DSA
 
 ---
 
@@ -146,11 +146,11 @@ I work with modern frontend and backend technologies to create scalable web solu
 A text manipulation and analysis web application built using React.js.
 
 ### Features:
-- Real-time word and character count
-- Text transformation tools
-- Live preview
-- Responsive UI
-- Clean user interface
+  Real-time word and character count
+  Text transformation tools
+  Live preview
+  Responsive UI
+  Clean user interface
 
 ---
 
@@ -159,48 +159,48 @@ A text manipulation and analysis web application built using React.js.
 Collection of interactive JavaScript-based games and applications.
 
 ### Projects:
-- Tic Tac Toe
-- Rock Paper Scissors
-- Calculator
+  Tic Tac Toe
+  Rock Paper Scissors
+  Calculator
 
 ### Features:
-- JavaScript Logic Building
-- DOM Manipulation
-- Responsive Layout
-- Interactive User Experience
+  JavaScript Logic Building
+  DOM Manipulation
+  Responsive Layout
+  Interactive User Experience
 
 ---
 
 # 💼 Skills
 
 ### Frontend:
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Tailwind CSS
+  HTML5
+  CSS3
+  JavaScript (ES6+)
+  React.js
+  Tailwind CSS
 
 ### Backend:
-- Node.js
-- Express.js
-- EJS
-- Pug
-- Nodemon
-- Middleware
-- REST APIs
+  Node.js
+  Express.js
+  EJS
+  Pug
+  Nodemon
+  Middleware
+  REST APIs
 
 ### Database:
-- MySQL
-- MongoDB
+  MySQL
+  MongoDB
 
 ### Development Tools:
-- Git
-- GitHub
-- VS Code
+  Git
+  GitHub
+  VS Code
 
 ### Languages:
-- Hindi (Native)
-- English (Professional)
+  Hindi (Native)
+  English (Professional)
 
 ---
 
