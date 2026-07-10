@@ -21,6 +21,7 @@ I'm a passionate **Full Stack Web Developer** and **BCA Final Year Student** fro
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/amir-suhail-13a776338">
 <img src="https://img.icons8.com/fluency/48/linkedin.png" width="55"/>
 </a>
@@ -36,6 +37,7 @@ I'm a passionate **Full Stack Web Developer** and **BCA Final Year Student** fro
 <a href="mailto:mannuraien3@gmail.com">
 <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="55"/>
 </a>
+
 </p>
 
 <p align="center">
@@ -66,7 +68,16 @@ I'm a passionate **Full Stack Web Developer** and **BCA Final Year Student** fro
 ## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,ejs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<img src="https://img.shields.io/badge/EJS-Template%20Engine-90C53F?style=for-the-badge&logo=ejs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Nodemon-Development%20Tool-76D04B?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Pug-Template%20Engine-A86454?style=for-the-badge&logo=pug&logoColor=white" />
+
+<img src="https://img.shields.io/badge/REST%20API-Backend-FF6C37?style=for-the-badge&logo=api&logoColor=white" />
+
 </p>
 
 ### Backend Skills:
@@ -111,9 +122,11 @@ I'm a passionate **Full Stack Web Developer** and **BCA Final Year Student** fro
 # 📈 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirSuhail21&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSuhail21&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -121,7 +134,9 @@ I'm a passionate **Full Stack Web Developer** and **BCA Final Year Student** fro
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=AmirSuhail21&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
