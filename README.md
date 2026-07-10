@@ -1,216 +1,86 @@
 <div align="center">
 
-# Hi 👋, I'm Amir Suhail
+# 🚀 Hi, I'm Amir Suhail
+### Full Stack Web Developer | BCA Final Year Student
 
-### 💻 Full Stack Web Developer
-
-I'm a passionate **Full Stack Web Developer** and **BCA Final Year Student** from India.  
-I enjoy building clean, responsive, and user-friendly web applications.  
-I work with modern frontend and backend technologies to create scalable web solutions.
-
----
-
-## 🚀 About Me
-
-🎓 BCA Final Year Student (Expected 2026)  
-💻 Full Stack Web Developer  
-🌱 Learning **React.js, Node.js & Backend Development**  
-🔭 Building **Frontend & Full Stack Projects**  
-🎯 Goal: Become a Professional Full Stack Developer  
-💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js**  
-📧 Email: **mannuraien3@gmail.com**
-
-
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/amir-suhail-13a776338)
+[![Instagram](https://shields.io)](https://www.instagram.com/amir_suhail_2.1_)
+[![Gmail](https://shields.io)](mailto:mannuraien3@gmail.com)
 
 ---
 
-## 🌐 Socials:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amir-suhail-13a776338" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="55" style="display: inline-block; margin: 0 10px;"/>
-  </a>
-  <a href="https://www.instagram.com/amir_suhail_2.1_" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="55" style="display: inline-block; margin: 0 10px;"/>
-  </a>
-  <a href="mailto:mannuraien3@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="55" style="display: inline-block; margin: 0 10px;"/>
-  </a>
+<p align="left">
+A passionate <b>Full Stack Web Developer</b> from India, currently pursuing final year of BCA. I specialize in crafting clean, responsive, and highly scalable web applications using modern frontend and backend technologies. Driven by logic and a continuous learning mindset.
 </p>
 
-<p align="center">
-  <b>Open to Collaborations • Learning • Building Projects 🚀</b>
-</p>
+</div>
 
 ---
 
-# 🛠 Tech Stack
-
-## 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### Frontend Skills:
-  HTML5
-  CSS3
-  JavaScript (ES6+)
-  React.js
-  Tailwind CSS
-  Responsive Web Design
-  DOM Manipulation
+### 💻 About Me
+- 🎓 **Education:** BCA Final Year Student (Graduation Expected: 2026)
+- 🚀 **Current Focus:** Deep diving into React.js ecosystem & Backend Architecture
+- 🔭 **Core Activity:** Building end-to-end full stack web applications
+- 🎯 **Career Goal:** Aspiring Professional Full Stack Engineer
+- 💬 **Ask Me About:** JavaScript, React, Node.js, and Database Design
+- 📧 **Get in Touch:** mannuraien3@gmail.com
 
 ---
 
-## ⚙️ Backend
+### 🛠️ Tech Stack & Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,ejs" />
-</p>
-
-### Backend Skills:
-  Node.js
-  Express.js
-  EJS Template Engine
-  Pug Template Engine
-  Nodemon
-  Middleware Handling
-  RESTful APIs
-  Server-side Development
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![TailwindCSS](https://shields.io) |
+| **Backend** | ![NodeJS](https://shields.io) ![Express.js](https://shields.io) ![EJS](https://shields.io) ![Pug](https://shields.io) |
+| **Databases** | ![MySQL](https://shields.io) ![MongoDB](https://shields.io) |
+| **Tools & DevOps** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io) ![Nodemon](https://shields.io) |
 
 ---
 
-## 🗄 Database
+### 📂 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+#### 🏢 [TextUtils](https://github.com) — *React.js Web App*
+> A feature-rich text manipulation and analysis suite.
+- **Features:** Real-time metrics (word & character counts), instant formatting tools, live preview layout.
+- **Tech Stack:** React.js, Tailwind CSS, DOM Manipulation API.
 
-### Database Skills:
-  MySQL
-  MongoDB
-  Database Management
-
----
-
-## 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Tools:
-  Git
-  GitHub
-  VS Code
-  Nodemon
+#### 🎮 [Frontend Games Portfolio](https://github.com) — *JavaScript Collection*
+> A series of interactive, logic-driven web-based mini-games.
+- **Included Games:** Tic-Tac-Toe, Rock-Paper-Scissors, Interactive Calculator.
+- **Tech Stack:** Vanilla JavaScript (ES6+), Advanced CSS, DOM State Management.
 
 ---
 
-# 📈 GitHub Stats
+### 📊 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirSuhail21&show_icons=true&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSuhail21&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+| Git Metrics | Contribution Streak |
+| :---: | :---: |
+| <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirSuhail21&show_icons=true&theme=tokyonight&hide_border=true" /> | <img height="165" src="https://streak-stats.demolab.com?user=AmirSuhail21&theme=tokyonight&hide_border=true" /> |
 
----
+**Top Languages Used**  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSuhail21&layout=compact&theme=tokyonight&hide_border=true" width="380" />
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=AmirSuhail21&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-# 🎯 Current Goals
-
-  Build Scalable Full Stack Applications
-  Master React.js
-  Improve Backend Development Skills
-  Create REST API Based Applications
-  Learn Advanced Database Concepts
-  Build Real-World Projects
-  Contribute to Open Source
-  Improve Problem Solving & DSA
+### 🎯 Strategic Objectives
+- [ ] Build and deploy industry-grade scalable Full Stack Applications.
+- [ ] Implement secure RESTful API integrations and custom middleware.
+- [ ] Deepen knowledge in Database Indexing, Optimization, and Data Structures (DSA).
+- [ ] Active participation and contribution to global Open-Source projects.
 
 ---
 
-# 📂 Featured Projects
+<div align="center">
 
-## 📝 TextUtils (React.js)
+### 💡 Core Philosophy
+> *"Code. Learn. Build. Improve. Repeat."*
 
-A text manipulation and analysis web application built using React.js.
+💬 **Open to collaborations, internship opportunities, and innovative open-source projects.**  
+⭐ *Thanks for exploring my profile! Feel free to star my repositories if you find my work useful.*
 
-### Features:
-  Real-time word and character count
-  Text transformation tools
-  Live preview
-  Responsive UI
-  Clean user interface
-
----
-
-## 🎮 Frontend Games Portfolio
-
-Collection of interactive JavaScript-based games and applications.
-
-### Projects:
-  Tic Tac Toe
-  Rock Paper Scissors
-  Calculator
-
-### Features:
-  JavaScript Logic Building
-  DOM Manipulation
-  Responsive Layout
-  Interactive User Experience
-
----
-
-# 💼 Skills
-
-### Frontend:
-  HTML5
-  CSS3
-  JavaScript (ES6+)
-  React.js
-  Tailwind CSS
-
-### Backend:
-  Node.js
-  Express.js
-  EJS
-  Pug
-  Nodemon
-  Middleware
-  REST APIs
-
-### Database:
-  MySQL
-  MongoDB
-
-### Development Tools:
-  Git
-  GitHub
-  VS Code
-
-### Languages:
-  Hindi (Native)
-  English (Professional)
-
----
-
-# ✨ Quote
-
-> **"Code. Learn. Build. Improve. Repeat."**
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.
-</p>
 </div>
