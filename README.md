@@ -31,8 +31,7 @@ A passionate <b>Full Stack Web Developer</b> from India, currently pursuing fina
 | Git Metrics | Contribution Streak |
 | :---: | :---: |
 | <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirSuhail21&show_icons=true&theme=tokyonight&hide_border=true" /> | <img height="165" src="https://streak-stats.demolab.com?user=AmirSuhail21&theme=tokyonight&hide_border=true" /> |
-
-**Top Languages Used**  
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSuhail21&layout=compact&theme=tokyonight&hide_border=true" width="380" />
 
 </div>
