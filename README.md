@@ -23,30 +23,6 @@ A passionate <b>Full Stack Web Developer</b> from India, currently pursuing fina
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![TailwindCSS](https://shields.io) |
-| **Backend** | ![NodeJS](https://shields.io) ![Express.js](https://shields.io) ![EJS](https://shields.io) ![Pug](https://shields.io) |
-| **Databases** | ![MySQL](https://shields.io) ![MongoDB](https://shields.io) |
-| **Tools & DevOps** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io) ![Nodemon](https://shields.io) |
-
----
-
-### 📂 Featured Projects
-
-#### 🏢 [TextUtils](https://github.com) — *React.js Web App*
-> A feature-rich text manipulation and analysis suite.
-- **Features:** Real-time metrics (word & character counts), instant formatting tools, live preview layout.
-- **Tech Stack:** React.js, Tailwind CSS, DOM Manipulation API.
-
-#### 🎮 [Frontend Games Portfolio](https://github.com) — *JavaScript Collection*
-> A series of interactive, logic-driven web-based mini-games.
-- **Included Games:** Tic-Tac-Toe, Rock-Paper-Scissors, Interactive Calculator.
-- **Tech Stack:** Vanilla JavaScript (ES6+), Advanced CSS, DOM State Management.
-
----
 
 ### 📊 GitHub Analytics
 
