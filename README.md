@@ -1,54 +1,64 @@
-<div align="center">
+# 🌐 My Portfolio Website
 
-# 🚀 Hi, I'm Amir Suhail
-### Full Stack Web Developer | BCA Final Year Student
+Welcome to the repository of my personal portfolio website! This project is a clean, modern, and fully responsive portfolio built using **React** and **Vite**, designed to showcase my skills, projects, and professional journey as a developer.
 
----
-
-<p align="left">
-A passionate <b>Full Stack Web Developer</b> from India, currently pursuing final year of BCA. I specialize in crafting clean, responsive, and highly scalable web applications using modern frontend and backend technologies. Driven by logic and a continuous learning mindset.
-</p>
-
-</div>
+ℹ️ **Live Demo:** [amirsuhail21.github.io/My-Portfolio](https://github.io)
 
 ---
 
-### 💻 About Me
-- 🎓 **Education:** BCA Final Year Student (Graduation Expected: 2026)
-- 🚀 **Current Focus:** Deep diving into React.js ecosystem & Backend Architecture
-- 🔭 **Core Activity:** Building end-to-end full stack web applications
-- 🎯 **Career Goal:** Aspiring Professional Full Stack Engineer
-- 💬 **Ask Me About:** JavaScript, React, Node.js, and Database Design
-- 📧 **Get in Touch:** mannuraien3@gmail.com
+## 🚀 Features
+
+- **Blazing Fast Performance:** Powered by Vite's ultra-fast build tool and hot module replacement (HMR).
+- **Component-Driven Architecture:** Modular and reusable UI components built with React.
+- **Responsive Design:** Fully optimized for all screen sizes (Mobiles, Tablets, and Desktops).
+- **Modern UI/UX:** Clean layouts with smooth animations for a premium user experience.
+- **Projects Section:** Dynamic display of my best work with direct links to source code and live previews.
 
 ---
 
+## 🛠️ Tech Stack Used
 
-### 📊 GitHub Analytics
+- **Framework:** React.js (Hooks, Functional Components)
+- **Build Tool:** Vite
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Hosting:** GitHub Pages
 
-<div align="center">
+---
 
-| Git Metrics | Contribution Streak |
+## 📸 Screenshots
+
+| Desktop View | Mobile View |
 | :---: | :---: |
-| <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirSuhail21&show_icons=true&theme=tokyonight&hide_border=true" /> | <img height="165" src="https://streak-stats.demolab.com?user=AmirSuhail21&theme=tokyonight&hide_border=true" /> |
-</div>
+| <img src="https://github.com/user-attachments/assets/1b1ba937-9137-4dda-9b2e-f3ec4e3a6b13" width="100%" alt="Desktop View" /> | <img src="https://github.com/user-attachments/assets/ea9028f7-de5c-41a7-ada1-9e59607463f2" width="100%" alt="Mobile View" /> |
 
 ---
 
-### 🎯 Strategic Objectives
-- [ ] Build and deploy industry-grade scalable Full Stack Applications.
-- [ ] Implement secure RESTful API integrations and custom middleware.
-- [ ] Deepen knowledge in Database Indexing, Optimization, and Data Structures (DSA).
-- [ ] Active participation and contribution to global Open-Source projects.
+## ⚙️ How to Run Locally
+
+Follow these simple steps to set up and run this project on your local machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd My-Portfolio
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Start the local development server:**
+   ```bash
+   npm run dev
+   ```
+   *Your React application will now be running locally (usually at `http://localhost:5173`).*
 
 ---
+Let's build something amazing together! Feel free to reach out to me via:
 
-<div align="center">
-
-### 💡 Core Philosophy
-> *"Code. Learn. Build. Improve. Repeat."*
-
-💬 **Open to collaborations, internship opportunities, and innovative open-source projects.**  
-⭐ *Thanks for exploring my profile! Feel free to star my repositories if you find my work useful.*
-
-</div>
+Give a ⭐️ if you like this project!
