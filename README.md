@@ -3,10 +3,6 @@
 # 🚀 Hi, I'm Amir Suhail
 ### Full Stack Web Developer | BCA Final Year Student
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/amir-suhail-13a776338)
-[![Instagram](https://shields.io)](https://www.instagram.com/amir_suhail_2.1_)
-[![Gmail](https://shields.io)](mailto:mannuraien3@gmail.com)
-
 ---
 
 <p align="left">
